@@ -1,0 +1,45 @@
+QQ. Do you want to make your documentation is a living thing that reflects the true state of the project.
+
+Source of Truth
+---------------
+For many teams, they become the definitive source of truth as to what the
+system does. Having a single place to go for this information saves a lot of
+time that is often wasted trying to keep requirements documents, tests, and
+code all in sync. It also helps to build trust within the team, because different
+parts of the team no longer have their own personal versions of the truth.
+
+Why Cumcumber?
+----------------
+Scenario 01: The Bad and misunderstood ideas and impacts
+--------------------------------------------------------
+Concern:
+--------
+If the developers spend a two-week iteration implementing a misunderstanding, not only have they wasted two weeks of effort, but they have corrupted the integrity of the codebase with concepts and functionality that do not reflect the original idea. Other developers may have already innocently started to build more code on top of those bad ideas, making it unlikely they will ever completely disappear from the codebase.
+
+Recommendation:
+---------------
+We need a kind of filter to protect our codebase from those misunderstood ideas.
+
+Solution
+---------
+(a) Automated Acceptance Test
+Automated Acceptance test--> originates from: eXtreme Programming {spcially in the practice of Test Driven Development}
+
+(a1) What it is?: Instead of a Business Stackholder (i.e. company owner) passing requirements to the development team without much opportunity for feedback, the developer and stackholder collaborate to write automated tests that express the outcome that the stackholder wants. 
+
+This is called Acceptance Test, bcoz they express what the software needs to do in order for the stackholder to find it acceptable. 
+
+(a2) How Automated Acceptance Test is different from the Unit Tests?
+--------------------------------------------------------------------
+Unit tests are aimed at the developers and help them drive out and check their software designs.
+Unit tests helps the developer to --> { build the thing [right] }
+Where, Acceptance test ensures you --> { build the [right] thing } 
+
+Note: 
+*Without the business facing automated acceptance tests, its hard for the programmers to know which unit tests they need to write.
+** Automated Acceptance Test helps your team to focus, ensuring the work you do each iteration is the most valuable thing you could possibly be doing.
+
+{{HAHAHA}} Guys, still you will make mistakes, but you will make a lot less of them --> meaning now you can go home earliner and enjoy the rest of your own life. 
+
+(b) Beha
+

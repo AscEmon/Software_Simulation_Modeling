@@ -1,0 +1,3 @@
+source :rubygems
+gem 'cucumber'
+gem 'rspec-expectations', '2.7.0'
