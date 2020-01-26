@@ -1,0 +1,13 @@
+CT-4
+1.	Explain the following terms: (5)
+a.	Stochastic,
+b.	Deterministic 
+c.	chaotic models
+2.	Simulate bank account interest rate both for the continuous modeling and discrete modeling. (10)
+
+
+CT-5:
+1.	Suppose you have been asked to design the admit card issue software for BAIUST. By using ARENA templates, draw this simulation. (8)
+2.	For developing the library book borrowing system, what modules would you focus most? Justify your choices. (7)
+
+
