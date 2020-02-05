@@ -1,0 +1,33 @@
+PART-A
+Chapter-1: Pg 1, 2,3
+Validation and Verification- 6,7, Pg-13,14
+Chapter-2:
+Definition: System, Simulation, Model
+Analytical integration, Numerical Integration
+Time Simulation Example- Coffee-shop-system
+
+Chapter-3
+Page-5 (Math)
+
+Chapter-4: CT 4
+
+Chapter-5:
+Page-86-89
+
+Chapter-6:
+Arena, Goodness-to-fit, Arena Modeling Environment elements
+Computer Manufacturing Model
+Order Processing login in Computer Manufacturing model
+Automobile Manufacturing Model
+Transportation Model
+
+
+PART-B
+Cucumber
+Chapter-7: Library
+Chapter-8: Page 29, 31, 34,35,36
+Chapter-9: POLISM Model, full
+Chapter-10: Research questions, SLA Parameters, Simulation Model, Page-5 Figure
+Chapter-11: All the names, page-9,10
+Chapter-12: Monte Carlo Simulation Definition
+
